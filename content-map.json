@@ -1,0 +1,23 @@
+{
+    "name": "example",
+    "prefix": "%#PLACEHOLDER",
+    "placeholderMappings": {
+        "Header": [
+            "APPLICATION_NAME"
+        ],
+        "Hero": [
+            "HERO_HEADING_TEXT",
+            "HERO_SUBHEADING_TEXT"
+        ],
+        "Footer": [
+            "APPLICATION_NAME",
+            "FOOTER_TEXT"
+        ]
+    },
+    "placeholders": {
+        "APPLICATION_NAME": "SportSync",
+        "HERO_HEADING_TEXT": "Elevate Your Game, Connect Your Team",
+        "HERO_SUBHEADING_TEXT": "The all-in-one platform for athletes, coaches, and sports enthusiasts to manage, analyze, and enhance performance",
+        "FOOTER_TEXT": "\u00a9 2023 SportSync. Empowering athletic excellence through technology."
+    }
+}
