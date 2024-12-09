@@ -69,5 +69,15 @@
         "metadata": {
             "component_id": "Hero1732041007"
         }
+    },
+    {
+        "id": "d3287885-684e-4cf9-bdf0-bb44bd534e21",
+        "timestamp": "2024-12-09T10:04:01.650624Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "a",
+        "metadata": {
+            "component_id": "Header1732041007"
+        }
     }
 ]
